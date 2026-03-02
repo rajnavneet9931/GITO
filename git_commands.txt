@@ -1,0 +1,16 @@
+1085  ls -a
+ 1086  git status
+ 1087  git add 1.py
+ 1088  git satus
+ 1089  git status
+ 1090  git rm --cached
+ 1091  git rm --cached 1.py
+ 1092  git status
+ 1093   git add .
+ 1094  git status
+ 1095  git commit -m "apna pehla pyhton file"
+ 1096  git status
+ 1097  rm 1.py
+ 1098  ls
+ 1099  git status
+ 1100  git restore 1.py
